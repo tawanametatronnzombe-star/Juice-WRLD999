@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tawanametatronnzombe-star.github.io/Juice-WRLD999/sitemap.xml
